@@ -30,7 +30,7 @@ Add logo into README.
 
 [https://docs.cskefu.com/licenses/v1.html](https://docs.cskefu.com/licenses/v1.html)
 
-春松客服许可证是在 Apache2.0 的基础上调整的，改动的过程见：
+春松许可证 v1 是在 Apache2.0 的基础上调整的，改动的过程见：
 
 [https://docs.cskefu.com/licenses/v1.diff-apache2.0.docx](https://docs.cskefu.com/licenses/v1.diff-apache2.0.docx)
 
